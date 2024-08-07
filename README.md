@@ -16,6 +16,8 @@
 chance.ts, date.ts, image.ts, index.ts util.ts
 
 
+![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/21f48f85-dbaa-4031-a97b-46d2a948a36c)
+
 <img width="513" alt="스크린샷 2024-08-07 오전 11 26 54" src="https://github.com/user-attachments/assets/13ab5480-c439-4aad-ba0c-80b97615f7f9">
 
 <img width="463" alt="스크린샷 2024-08-07 오전 11 27 02" src="https://github.com/user-attachments/assets/57864a00-3d60-4530-a0aa-75cecf402cbe">
